@@ -2,7 +2,7 @@
 <h3 align="center"> Experience in Data Science with 1 Year Internship in DataScience with proficiency in Python, SQL, Tableau, Power BI Skilled.</h3>
  
 
-<img align="right" alt ="coding" width="400" src="https://github.com/debashishdas40/debashishdas40/blob/main/data.gif">
+<img align="right" alt ="coding" width="550" src="https://github.com/debashishdas40/debashishdas40/blob/main/data.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashishdas40&label=Profile%20views&color=0e75b6&style=flat" alt="debashishdas40" /> </p>
 
