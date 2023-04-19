@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working **as Data Science Trainee at AlmaBetter**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jEY58vrOTWtDuzHN3WuKkXWcs3g7lOi0/view?usp=share_link](https://drive.google.com/file/d/1jEY58vrOTWtDuzHN3WuKkXWcs3g7lOi0/view?usp=share_link)
+- 📄 Know about my resume [https://drive.google.com/file/d/1jEY58vrOTWtDuzHN3WuKkXWcs3g7lOi0/view?usp=share_link](https://drive.google.com/file/d/1jEY58vrOTWtDuzHN3WuKkXWcs3g7lOi0/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
