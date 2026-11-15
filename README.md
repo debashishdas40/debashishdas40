@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashishdas40&label=Profile%20views&color=0e75b6&style=flat" alt="debashishdas40" /> </p>
 
-- 🔭 I’m currently working **as Data Anlaysts and CRM manager**
+- 🔭 I’m currently working **as Data Anlaysts and CRM manager at Heidelbergcement india**
 
 - 📄 Know about my resume [https://drive.google.com/file/d/1jEY58vrOTWtDuzHN3WuKkXWcs3g7lOi0/view?usp=share_link](https://drive.google.com/file/d/1jEY58vrOTWtDuzHN3WuKkXWcs3g7lOi0/view?usp=share_link)
 
